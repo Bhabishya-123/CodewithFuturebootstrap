@@ -1,0 +1,23 @@
+
+#h1{
+ color: rgb(0, 93, 233);
+}
+#h2{
+    color:yellow;
+ } 
+#h3{
+    color: red;
+}
+span{
+    color: rgb(255, 0, 119);
+}
+
+.container2{
+    margin: 6px 20px;
+}
+footer p{
+    color:black;
+    background-color: rgba(24, 165, 170, 0.781);
+    border: 2px dotted green;
+}
+
